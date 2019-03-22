@@ -1,5 +1,16 @@
 # RabbitMQ Tutorials
 
+
+## What is RabbitMQ?
+RabbitMQ is an advanced messaging middleware based on the AMQP protocol. Its main technical features are availability, security, clustering, multi-protocol support, visualization of the client and the active community.
+
+## Why choose RabbitMQ？
+1. Powerful, supporting dead letter queues, priority queues, delay queues, retry queues and many other features without secondary development.
+2. Performance is still relatively good. Typically, a single machine has a QPS of approximately 10,000, which is sufficient for general application scenarios.
+3. The documentation is very rich, the community is active and easy to get started.
+4. Powerful visual management tools.
+
+## Explanation
 This project contains code for [RabbitMQ tutorials](http://www.rabbitmq.com/getstarted.html) with
 their ports to various languages.
 
